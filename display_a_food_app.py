@@ -19,7 +19,7 @@ def myapp(page: ft.Page):
     page.theme_mode = ft.ThemeMode.DARK  
     input = ft.TextField(value="0", text_align=ft.TextAlign.CENTER, width=100)
     input.value = str(df["food"][0])
-    image = ft.Image(src=df["food"][0],width=100,height=100,
+    image = ft.Image(src=df["food"][0],width=300,height=300,
                           placeholder_fade_out_animation=ft.Animation(duration=ft.Duration(milliseconds=900),curve=ft.AnimationCurve.EASE_IN,),)
     image.src = str(df["imgfilepath"][0])
 
