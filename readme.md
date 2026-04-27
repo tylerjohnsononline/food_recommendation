@@ -1,4 +1,4 @@
-This prototype of a UI to show random and food recommendations.
+This prototype of a UI to show food recommendations based on some ingredients you have or a random food.
 
 Currently the program shows a random at the click of a button, and if an image is on file: that image as well.
 
