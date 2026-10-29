@@ -3,3 +3,5 @@ This prototype of a UI to show food recommendations based on some ingredients yo
 Currently the program shows a random at the click of the "newfood" button, and if an image is on file: that image will be shown as well.
 
 ![alt text](https://github.com/tylerjohnsononline/food_recommendation/blob/main/images/readme_images/startup.png)
+
+based_on_ingredients is throwing an error and stopping the program from functioning.
